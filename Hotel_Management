@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T11:46:20.913Z" agent="5.0 (Windows)" version="20.5.1" etag="Avt-FNRGmQcrkoyEOgeB" type="github"><diagram id="mBprK55wqsFeTQJhNqnk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T16:22:39.409Z" agent="5.0 (Windows)" etag="S8xU1mpw7n2baxVGfVvQ" version="20.5.1" type="github">
+  <diagram id="mBprK55wqsFeTQJhNqnk" name="Page-1">
+    <mxGraphModel dx="1108" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vZwXmIDDQbBB4SY6Dkt8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-1" value="Search Hotel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-2" value="&lt;span style=&quot;font-family: noto_regular; color: rgb(75, 75, 75); font-size: 10pt;&quot;&gt;Validate Transaction&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-3" value="Check room availability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-4" value="&lt;span style=&quot;font-family: noto_regular; color: rgb(101, 101, 101); font-size: 10pt;&quot;&gt;Check and Provide Availability and Price to customer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-5" value="&#xa;&lt;span style=&quot;font-family: noto_regular; color: rgb(75, 75, 75); font-size: 10pt;&quot;&gt;Select Preferd Room&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-6" value="&#xa;&lt;span style=&quot;font-family: noto_regular; color: rgb(101, 101, 101); font-size: 10pt;&quot;&gt;Ask for Customer Information and Billing Details&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-8" value="&lt;span style=&quot;font-family: noto_regular; color: rgb(101, 101, 101); font-size: 10pt;&quot;&gt;Enter Customer Information and billing Details&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="830" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vZwXmIDDQbBB4SY6Dkt8-10" value="&lt;span style=&quot;font-family: noto_regular; color: rgb(101, 101, 101); font-size: 10pt;&quot;&gt;Confirm Reservation and send Confirmation email with boarding pass&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="960" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
